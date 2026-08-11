@@ -13,7 +13,7 @@
 - 🔭 Trabalhando em projetos com React, Node.js e Supabase
 - 🌱 Aprendendo TypeScript e construção de APIs REST mais robustas
 - 💬 Fico à vontade pra falar sobre front-end, back-end e boas práticas de código
-- 📫 Como me encontrar: [LinkedIn](SEU_LINK_LINKEDIN) · [E-mail](mailto:SEU_EMAIL) · [Portfólio](SEU_LINK_PORTFOLIO)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/matheus-nunes-de-souza-b40852394/) · [E-mail](mailto:matheusygord@gmail.com)
 
 ---
 
@@ -70,19 +70,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![APIs](https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Database](https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
----
-
-### 📌 Projetos em Destaque
-
-<!--
-Dica: você pode fixar até 6 repositórios no seu perfil do GitHub
-(vá em "Customize your pins" na página principal do seu perfil).
-Depois é só linkar os melhores aqui também, com uma linha explicando o que cada um faz.
--->
-
-- **[nome-do-projeto](SEU_LINK_REPO)** — breve descrição do que o projeto faz e quais tecnologias usa.
-- **[nome-do-projeto-2](SEU_LINK_REPO)** — breve descrição do que o projeto faz e quais tecnologias usa.
 
 ---
 
